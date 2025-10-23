@@ -1,11 +1,6 @@
 # Olá, me chamo Thiago Corrêa Medeiros ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**thxw7/thxw7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - :bookmark_tabs: Atualmente estou trabalhando no setor de TI da Prefeitura da minha cidade. 
 - :computer: Estou cursando a faculdade de Ciência da Computação, e estou no 6° Semestre. 
 - ## Contatos:
